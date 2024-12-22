@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course.Api", "Course.Api\Course.Api.csproj", "{87EA0D3A-914E-46C2-B1A8-20FF8905E47F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineCoure.Api", "OnlineCoure.Api\OnlineCoure.Api.csproj", "{0839328A-DFBF-4C50-AEDB-0B07EDF2EA52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{87EA0D3A-914E-46C2-B1A8-20FF8905E47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{87EA0D3A-914E-46C2-B1A8-20FF8905E47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{87EA0D3A-914E-46C2-B1A8-20FF8905E47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{87EA0D3A-914E-46C2-B1A8-20FF8905E47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0839328A-DFBF-4C50-AEDB-0B07EDF2EA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0839328A-DFBF-4C50-AEDB-0B07EDF2EA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0839328A-DFBF-4C50-AEDB-0B07EDF2EA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0839328A-DFBF-4C50-AEDB-0B07EDF2EA52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
